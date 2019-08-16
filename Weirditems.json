@@ -1,0 +1,47 @@
+{
+	"MyOffice": "Weird Production House",
+	"secondHead": "Grove Street, Canada",
+	"Since": 1890,
+	"topDeals": [
+        {
+            "name": "A cat butt tissue holder",
+			"price": 40 ,
+			"description": "This seems like the nicest thing to be plucked from a cat’s rear since, well, ever.",
+			"fectures": [
+				"Good Quality",
+				"Best Gift for cat lovers",
+				
+				"looks funny and attractive"
+			],
+			"image": "71QugMJmYJL._SL1500_.jpg"
+        },
+           {
+            "name": "A desktop refrigerator",
+			"price": 38,
+			"description": "Now when you say you need a cold one, you can mean it. ",
+			"fectures": [
+				"Unique Item",
+				"Best Decoration For Living Room ",
+				"Product Quality is Good"
+				
+			],
+			"image": "510g-cwJNBL.jpg"
+        },
+           {
+            "name": "A pizza hat",
+			"price": 12,
+			"description": "Finally, you can indulge in everyone’s life-long desire of wearing pizza atop their head.",
+			"fectures": [
+				"Bright colors",
+				"Soft Materials",
+				"Looks Attarctive"
+				
+			],
+			"image": "510g-cwJNBL.jpg"
+        }
+	]
+}
+
+
+
+
